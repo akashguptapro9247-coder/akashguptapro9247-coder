@@ -1,11 +1,11 @@
 <h1 align="center">Akash Gupta</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=850&lines=AI+Engineer;Full+Stack+Developer;Backend+Developer;Building+Scalable+Applications;Modern+Web+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=900&lines=AI+Engineer;Full+Stack+Developer;Backend+Developer;Building+Scalable+Applications;Modern+Software+Developer" />
 </p>
 
 <h3 align="center">
-Building AI-powered systems, scalable backend architectures, and modern web applications focused on performance, clean design, and real-world impact.
+Building AI-powered systems, scalable backend architectures, and modern web applications focused on clean engineering, performance, and real-world impact.
 </h3>
 
 ---
@@ -30,12 +30,12 @@ Building AI-powered systems, scalable backend architectures, and modern web appl
 
 # About Me
 
-- 🎓 B.Tech Computer Science Student with strong interest in Software Engineering & AI
-- 💻 Full Stack Developer focused on scalable applications and modern backend systems
-- 🚀 Passionate about building real-world AI-powered platforms and responsive digital experiences
-- 🧠 Interested in AI Systems, Backend Architecture, APIs, and Modern UI Engineering
-- 🌱 Continuously improving development, problem-solving, and system design skills
-- ⚡ Strong focus on clean architecture, scalability, and performance optimization
+- 🎓 Computer Science Engineering Student passionate about Software Engineering & Artificial Intelligence
+- 💻 Full Stack Developer focused on scalable backend systems and modern frontend experiences
+- 🚀 Building real-world AI-powered platforms and productivity-focused web applications
+- 🧠 Interested in AI Systems, REST API Architecture, Backend Engineering, and UI/UX Optimization
+- 🌱 Continuously improving problem-solving, system design, and scalable development skills
+- ⚡ Strong focus on clean architecture, responsive design, and performance optimization
 
 ---
 
@@ -70,9 +70,10 @@ Building AI-powered systems, scalable backend architectures, and modern web appl
 - REST APIs
 - JWT Authentication
 - AI Integration
+- API Architecture
 - Responsive UI Design
 - LocalStorage
-- API Architecture
+- Git Version Control
 
 ---
 
@@ -142,14 +143,15 @@ Cyberpunk-inspired password generation platform focused on security and modern U
 
 ## 🌐 Personal Portfolio Website
 
-Modern developer portfolio designed to showcase technical skills, certifications, projects, and development experience.
+Modern developer portfolio designed to showcase technical skills, projects, certifications, and development experience.
 
 ### Features
 
 - Responsive modern UI
 - Project showcase system
 - Contact integration
-- Professional branding
+- Professional developer branding
+- Optimized user experience
 
 ---
 
@@ -158,7 +160,7 @@ Modern developer portfolio designed to showcase technical skills, certifications
 ## Web Developer Intern — CodSoft
 
 - Developed responsive web interfaces using HTML, CSS, and JavaScript
-- Improved frontend structure and responsiveness
+- Improved frontend structure and responsive layouts
 - Worked with Git & GitHub version control workflows
 - Strengthened debugging and frontend engineering skills
 
@@ -179,9 +181,11 @@ Modern developer portfolio designed to showcase technical skills, certifications
 # GitHub Analytics
 
 <p align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=akashguptapro9247-coder&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashguptapro9247-coder&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -229,6 +233,10 @@ Modern developer portfolio designed to showcase technical skills, certifications
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
+<a href="https://www.linkedin.com/in/akash-gupta6300?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
 <a href="mailto:akashgupta538399@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
@@ -250,14 +258,6 @@ while(!success){
 
 ---
 
-# Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-<p align="center">
-Building intelligent systems and modern digital experiences through clean, scalable, and impactful engineering.
+Building intelligent systems and scalable digital experiences through clean, modern, and impactful engineering.
 </p>
