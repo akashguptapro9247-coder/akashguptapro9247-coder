@@ -1,12 +1,12 @@
 <h1 align="center">Akash Gupta</h1>
 
-<h3 align="center">
-Aspiring AI Engineer • Full Stack Developer • Software Developer
-</h3>
-
 <p align="center">
-Building AI-powered applications, scalable backend systems, and modern web experiences with a focus on performance, clean architecture, and real-world problem solving.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=850&lines=AI+Engineer;Full+Stack+Developer;Backend+Developer;Building+Scalable+Applications;Modern+Web+Developer" />
 </p>
+
+<h3 align="center">
+Building AI-powered systems, scalable backend architectures, and modern web applications focused on performance, clean design, and real-world impact.
+</h3>
 
 ---
 
@@ -20,22 +20,26 @@ Building AI-powered applications, scalable backend systems, and modern web exper
 
 <img src="https://img.shields.io/badge/Focus-AI%20%26%20Full%20Stack-black?style=for-the-badge" />
 
+<img src="https://img.shields.io/badge/Backend-Engineering-success?style=for-the-badge" />
+
 </p>
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7f0c746b-1a8b-4f3f-bd9e-f19c6d65db43.gif" width="100%">
+
 # About Me
 
-- 🎓 B.Tech Computer Science Student
-- 💻 Full Stack & AI-focused Developer
-- 🚀 Passionate about building scalable real-world applications
-- 🧠 Strong interest in AI Systems, Backend Development & Modern UI Engineering
-- 🌱 Continuously learning advanced development technologies and scalable architecture
-- ⚡ Focused on improving problem-solving, system design, and development skills
+- 🎓 B.Tech Computer Science Student with strong interest in Software Engineering & AI
+- 💻 Full Stack Developer focused on scalable applications and modern backend systems
+- 🚀 Passionate about building real-world AI-powered platforms and responsive digital experiences
+- 🧠 Interested in AI Systems, Backend Architecture, APIs, and Modern UI Engineering
+- 🌱 Continuously improving development, problem-solving, and system design skills
+- ⚡ Strong focus on clean architecture, scalability, and performance optimization
 
 ---
 
-# Tech Stack
+# Engineering Stack
 
 ### Programming Languages
 
@@ -61,11 +65,14 @@ Building AI-powered applications, scalable backend systems, and modern web exper
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
+### Core Technologies
+
 - REST APIs
 - JWT Authentication
 - AI Integration
-- LocalStorage
 - Responsive UI Design
+- LocalStorage
+- API Architecture
 
 ---
 
@@ -77,78 +84,87 @@ Building AI-powered applications, scalable backend systems, and modern web exper
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212257468-c1f7f8fd-c2e1-4b7e-88c6-2d5d7f5f4c0d.gif" width="100%">
+
 # Featured Projects
 
 ## 🏛 GovCareAI
 
-AI-powered complaint management platform focused on smart governance and intelligent complaint prioritization.
+AI-powered complaint management platform designed for smart governance and intelligent complaint prioritization.
 
-### Features
+### Key Features
+
 - AI-based complaint priority prediction
-- JWT-secured authentication
+- JWT-secured authentication system
 - REST API architecture
-- Real-time complaint tracking
-- Scalable backend structure
+- Real-time complaint management
+- Scalable backend infrastructure
 
 ### Stack
+
 `Node.js` `Express.js` `JavaScript` `MySQL` `REST APIs`
 
 ---
 
 ## 📋 TaskEntropy
 
-Modern productivity and task management application with advanced task organization and responsive UI.
+Modern productivity and task management application focused on advanced task organization and responsive user experience.
 
-### Features
+### Key Features
+
 - Drag & Drop task management
 - Real-time filtering & search
 - Offline-first architecture
-- Responsive dashboard system
+- Responsive dashboard interface
 
 ### Stack
+
 `HTML5` `CSS3` `JavaScript`
 
 ---
 
 ## 🔐 GhostKey
 
-Cyberpunk-inspired password generation system focused on secure password generation and modern UI experience.
+Cyberpunk-inspired password generation platform focused on security and modern UI interaction.
 
-### Features
+### Key Features
+
 - Secure password generation
 - Password strength analysis
-- Copy-to-clipboard integration
-- Futuristic responsive design
+- Clipboard integration
+- Futuristic responsive interface
 
 ### Stack
+
 `HTML5` `CSS3` `JavaScript`
 
 ---
 
 ## 🌐 Personal Portfolio Website
 
-Modern developer portfolio designed to showcase projects, skills, certifications, and technical experience.
+Modern developer portfolio designed to showcase technical skills, certifications, projects, and development experience.
 
 ### Features
+
 - Responsive modern UI
-- Project showcase
+- Project showcase system
 - Contact integration
-- Professional developer branding
+- Professional branding
 
 ---
 
 # Experience
 
-### Web Developer Intern — CodSoft
+## Web Developer Intern — CodSoft
 
 - Developed responsive web interfaces using HTML, CSS, and JavaScript
-- Improved UI responsiveness and frontend structure
-- Worked with Git & GitHub version control
-- Strengthened debugging and frontend development skills
+- Improved frontend structure and responsiveness
+- Worked with Git & GitHub version control workflows
+- Strengthened debugging and frontend engineering skills
 
 ---
 
-# Certifications
+# Certifications & Achievements
 
 - 🏆 Oracle AI Professional Certification
 - 🧠 Oracle Generative AI Certification
@@ -157,6 +173,8 @@ Modern developer portfolio designed to showcase projects, skills, certifications
 - 💡 Goldman Sachs Virtual Experience Program
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212257464-1579a8e8-f65d-4d88-b7fd-1f5d79b6dff0.gif" width="100%">
 
 # GitHub Analytics
 
@@ -176,13 +194,29 @@ Modern developer portfolio designed to showcase projects, skills, certifications
 
 ---
 
+# Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akashguptapro9247-coder&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=akashguptapro9247-coder&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
 # Current Focus
 
 - AI-powered applications
 - Backend engineering
-- Full stack development
+- Full stack systems
 - Scalable REST APIs
-- Advanced JavaScript systems
+- Advanced JavaScript applications
 - Modern responsive UI/UX
 
 ---
@@ -216,6 +250,14 @@ while(!success){
 
 ---
 
+# Contribution Snake
+
 <p align="center">
-Building intelligent systems and modern digital experiences through code.
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<p align="center">
+Building intelligent systems and modern digital experiences through clean, scalable, and impactful engineering.
 </p>
